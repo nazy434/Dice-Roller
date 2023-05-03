@@ -1,7 +1,7 @@
 # Dice Roller
 A simple Kotlin app which rolls a dice.
 
-Uses `VectorDrawable` support library in `build.geadle` for backward compatibility and devices bellow API version 21. 
+Uses `VectorDrawable` support library in app level `build.geadle` for backward compatibility and devices bellow API version 21. 
 
 ## How to use VectorDrawable Support Library
 1. Enable the use of support library for vector drawables in build.gradle file (app level): 
