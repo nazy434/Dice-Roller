@@ -32,5 +32,6 @@ class MainActivity : AppCompatActivity() {
                 else -> R.drawable.empty_dice
             }
         )
+        diceImage.contentDescription = randomInt.toString()
     }
 }
