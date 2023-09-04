@@ -9,7 +9,6 @@ Uses `VectorDrawable` support library in app level `build.geadle` for backward c
 android {
 ...
 vectorDrawables.useSupportLibrary = true
-...
 }
 ```
 
